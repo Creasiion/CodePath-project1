@@ -17,18 +17,17 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Guide]](https://www.loom.com/share/cc407401bd2b421b8c5d8bc42b97c090?sid=0a7e1715-6d41-45bb-a435-e4bd55bde2c2) .
 
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+Exercise 3: Assign a closure to the `didSelectString` property of `keyboardController` (see KeyboardController.swift) caused me the most errors and debugging issues.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Imani Cage]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
